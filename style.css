@@ -1,0 +1,78 @@
+body {
+			margin: 0px;
+			font-family: Arial,sans-serif;
+			font-size: 15px;
+		}
+
+.size-carousel {
+	width: 1000px;
+}
+
+.header {
+	background-image: url("images/bg.jpeg");
+	background-position-y: -202px;
+	background-repeat: no-repeat;
+	background-size: 1440px;
+	color: white;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.jumbotron nav.micolor {
+	color: white;
+}
+
+.logo {
+	width: 133px;
+}
+
+#img-equipo {
+	width: 380px;
+	margin-top: 25px;
+}
+
+.jumbotron h1.seccion-1 {
+	font-size: 35px;
+  font-weight: 100;
+}
+
+.jumbotron p.div-3 {
+	text-align: center;
+	font-size: 16px;
+}
+
+.equipo-1 {
+	text-align: center;
+	font-size: 15px;
+}
+
+.jumbotron p.blog-1 {
+	text-align: center;
+	font-size: 15px;
+}
+
+.jumbotron h3.blog-1 {
+	text-align: center;
+}
+
+.jumbotron div.blog-1 {
+	text-align: center;
+}
+
+.pie {
+	background-color: black;
+	color: #b4b4b4;
+	padding-left: 180px;	
+}
+
+.navbar a.colornav {
+	color: #b4b4b4;
+}
+
+.claseform {
+	padding: 0px;
+}
+
+.margencarousel {
+	padding-top: 50px;
+}
